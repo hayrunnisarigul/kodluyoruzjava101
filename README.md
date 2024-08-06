@@ -1,2 +1,2 @@
 # kodluyoruzjava101
-Kodluyoruz 101 Java dersindeki ödevlerin yüklendiği yer.
+Kodluyoruz Java 101 dersindeki ödevlerin yüklendiği yer.
